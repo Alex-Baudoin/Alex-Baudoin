@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Baudoin
 - 👀 I’m interested in quantum machine learning
-- 🌱 I’m currently working on improving quantum principal components
+- 🌱 I’m currently working on improving quantum principal component analysis (qPCA)
 - 💞️ I’m looking to collaborate on anything related
 - 📫 How to reach me: baudoin.nguetsa@aims-cameroon.org
 - 😄 Pronouns: He/Him

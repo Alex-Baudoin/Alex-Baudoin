@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Alex-Baudoin
-- 👀 I’m interested in quantum machine learning
-- 🌱 I’m currently working on improving quantum principal component analysis (qPCA)
-- 💞️ I’m looking to collaborate on anything related
-- 📫 How to reach me: baudoin.nguetsa@aims-cameroon.org
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Alex Baudoin
+- 👀 I’m interested in quantum machine learning, quantum algorithms and their complexities
+- 🌱 I’m currently working on lots of things and I hate uploading my codes here on Github.
+- 💞️ I’m looking to collaborate on anything related my research interests
+- 📫 How to reach me: anguetsa@aimsric.org
+- 😄 Pronouns: Pay/Me
 - ⚡ Fun fact: I love cats and books.
 
 <!---
